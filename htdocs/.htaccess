@@ -1,0 +1,6 @@
+AuthName " la page de Securité"
+AuthType Basic
+AuthUserFile "C:\said\htdocs\.htpasswd"
+Require valid-user
+
+
